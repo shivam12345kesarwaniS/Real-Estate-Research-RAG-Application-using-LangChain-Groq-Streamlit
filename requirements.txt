@@ -1,0 +1,9 @@
+python-dotenv
+streamlit
+unstructured
+tiktoken
+langchain-
+langchain-groq
+langchain-community
+protobuf
+langchain-huggingface
