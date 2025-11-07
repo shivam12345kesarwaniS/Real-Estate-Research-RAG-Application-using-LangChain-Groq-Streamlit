@@ -41,6 +41,7 @@ An AI-powered **Real Estate Research Tool** that scrapes live web articles, stor
 | Loader | Unstructured URL Loader |
 | Environment | Python + Dotenv |
 
-<img width="1440" height="900" alt="Screenshot 2025-11-05 at 11 15 30 AM" src="https://github.com/user-attachments/assets/b87c7f3e-84f7-4d81-86e6-06b57284a9eb" />
+<img width="1440" height="900" alt="Screenshot 2025-11-05 at 11 16 59 AM" src="https://github.com/user-attachments/assets/2367c43e-6a54-4397-94a9-fcc5bb2da175" />
+
 
 
